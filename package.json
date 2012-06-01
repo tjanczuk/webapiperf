@@ -1,0 +1,27 @@
+{
+  "name": "webapiperf",
+  "description": "A test case for benchmarking performance of web APIs in node.js",
+  "version": "0.1.0",
+  "author": {
+    "name": "Tomasz Janczuk <tomasz@janczuk.org>",
+    "url": "http://tomasz.janczuk.org",
+    "twitter": "tjanczuk"
+  },
+  "dependencies": {
+    "restify" : "1.4.2"
+  },
+  "devDependencies": {
+  },
+  "homepage": "https://github.com/tjanczuk/webapiperf",
+  "bugs": { 
+    "url": "https://github.com/tjanczuk/webapiperf/issues"
+  },
+  "keywords": ["http", "web"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjanczuk/webapiperf.git"
+  },
+  "engines": { 
+    "node": ">= 0.6.17" 
+  }
+}

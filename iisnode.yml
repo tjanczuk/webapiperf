@@ -1,0 +1,9 @@
+# use production settings for diagnostics
+
+loggingEnabled: false
+debuggingEnabled: false
+devErrorsEnabled: false
+
+# allow creation of as many node.exe processes as there are CPU cores on the machine
+
+nodeProcessCountPerApplication: 0

@@ -11,8 +11,8 @@ This is a simple node.js HTTP application that can be hosted in IIS using iisnod
 
 ## Prerequisities ##
 
-[node.js](http://nodejs.org)
-[iisnode](http://github.com/tjanczuk/iisnode)
+- [node.js](http://nodejs.org)  
+- [iisnode](http://github.com/tjanczuk/iisnode)
 
 ## Setting up ##
 
